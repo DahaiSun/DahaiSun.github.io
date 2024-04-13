@@ -6,4 +6,4 @@
 
 Welcome to my personal GitHub page.
 
-[Add your bio or a short introduction]
+I am a PhD student from biomolecular department working on the cytokines
