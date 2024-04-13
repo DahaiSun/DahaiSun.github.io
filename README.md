@@ -25,9 +25,9 @@
         <img src="images/profile.jpg" alt="Profile Picture" class="profile-pic">
     </div>
     <div>
-        <h1>Hello, I'm [Your Name]!</h1>
+        <h1>Hello, I'm Boyue!</h1>
         <p>Welcome to my personal GitHub page.</p>
-        <p>[Add your bio or a short introduction]</p>
+        <p>I am PhD student from Biomolecular department working on the cytokines</p>
     </div>
 </body>
 </html>
