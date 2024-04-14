@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Prevents scrolling */
+    background-image: url('background.jpg'); /* Set your interactive wallpaper */
+    background-size: cover;
+    position: relative;
+}
+
+#cat {
+    position: absolute;
+    pointer-events: none; /* Makes the div ignore mouse events */
+    transition: transform 0.1s linear; /* Smooth movement */
+}
