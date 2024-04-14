@@ -10,5 +10,5 @@ body, html {
 #cat {
     position: absolute;
     pointer-events: none; /* Makes the div ignore mouse events */
-    transition: transform 0.1s linear; /* Smooth movement */
+    transition: transform 0.2s linear; /* Smooth movement */
 }
