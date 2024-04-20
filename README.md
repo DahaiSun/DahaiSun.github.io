@@ -6,4 +6,12 @@
 
 Welcome to my personal GitHub page.
 
-I am a PhD student from biomolecular department working on the cytokines
+I am a PhD student in the biomolecular department working on cytokines. [Here's a link to our lab at Weizmann.](https://www.weizmann.ac.il/Biomolecular_Sciences/Schreiber/#/)
+
+[**Course Notes and Repository**](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file) - Visit this page for notes and links related to the course.
+
+
+Feel free to explore my projects and reach out if you have questions or collaboration ideas!
+
+|course date|assignment name|my solution|
+|day2|number_guess_game|https://github.com/DahaiSun/number_guess_game|
