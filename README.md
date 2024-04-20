@@ -14,4 +14,4 @@ I am a PhD student in the biomolecular department working on cytokines. [Here's 
 Feel free to explore my projects and reach out if you have questions or collaboration ideas!
 
 |course date|assignment name|my solution|
-|day2|number_guess_game|repository(https://github.com/DahaiSun/number_guess_game)|
+|day2|number_guess_game|[repository](https://github.com/DahaiSun/number_guess_game)|
