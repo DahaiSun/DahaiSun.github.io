@@ -11,5 +11,5 @@ I am a PhD student in the biomolecular department working on cytokines. [Here's 
 [**wis-python-course-2024-04**](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file) - Visit this page for notes and links related to the course.
 
 
-Feel free to explore my [projects assignment](https://github.com/DahaiSun/wis_python_course_assignments) and reach out if you have questions or collaboration ideas!
+Feel free to explore my [project assignments](https://github.com/DahaiSun/wis_python_course_assignments) and reach out if you have questions or collaboration ideas!
 
