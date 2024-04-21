@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -9,27 +9,35 @@
     body, html {
         height: 100%;
         margin: 0;
+        padding: 0;
+        overflow-x: hidden;
     }
     .gif-background {
         position: fixed;
         top: 0;
         left: 0;
+        right: 0;
+        bottom: 0;
         width: 100%;
         height: 100%;
-        z-index: -1;
+        z-index: -10; /* Ensures the GIF stays in the background */
+        background: url('https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif') center no-repeat;
+        background-size: cover;
     }
     .container {
         position: relative;
-        z-index: 1;
+        z-index: 10; /* Ensures the content is on top */
+        background: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for content */
+        padding: 20px;
+        margin-top: 50px;
     }
 </style>
 </head>
 <body class="text-gray-900">
-<!-- Tenor GIF Embed -->
-<div class="tenor-gif-embed gif-background" data-postid="17071996421740995899" data-share-method="host" data-aspect-ratio="2.04098" data-width="100%"></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- Tenor GIF as a simple background instead of an embed -->
+<div class="gif-background"></div>
 
-<div class="container mx-auto p-4 bg-white bg-opacity-90">
+<div class="container mx-auto">
     <header class="text-center">
         <img src="images/profile.jpg" alt="Boyue" class="w-32 h-32 rounded-full mx-auto border-4 border-white shadow-lg">
         <h1 class="text-2xl font-bold mt-2">Hello, I'm Boyue!</h1>
